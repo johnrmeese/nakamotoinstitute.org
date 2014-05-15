@@ -1,0 +1,62 @@
+{
+  "mempool": [
+    {
+      "title": "anarchist-strategy",
+      "related": {
+        "mempool": [
+          "why-bitcoin-will-continue-to-grow"
+        ],
+        "literature": [
+          "bitcoin"
+        ]
+      }
+    },
+    {
+      "title": "why-bitcoin-will-continue-to-grow",
+      "related": {
+        "mempool": [
+          "anarchist-strategy"
+        ],
+        "literature": [
+          "bitcoin"
+        ]
+      }
+    },
+    {
+      "title": "bitcoin-is-the-best-unit-of-account",
+      "related": {
+        "mempool": [
+          
+        ],
+        "literature": [
+          "shelling-out"
+        ]
+      }
+    }
+  ],
+  "literature": [
+    {
+      "title": "bitcoin",
+      "related": {
+        "mempool": [
+          "anarchist-strategy",
+          "why-bitcoin-will-continue-to-grow"
+        ],
+        "literature": [
+          "shelling-out"
+        ]
+      }
+    },
+    {
+      "title": "shelling-out",
+      "related": {
+        "mempool": [
+          "bitcoin-is-the-best-unit-of-account"
+        ],
+        "literature": [
+          "bitcoin"
+        ]
+      }
+    }
+  ]
+}
